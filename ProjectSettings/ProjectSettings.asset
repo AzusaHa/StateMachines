@@ -665,10 +665,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 4ba9b38f-fc02-4b73-a9d0-6a505bc5e24f
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: StateMachines
+  organizationId: azusa19891119
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
